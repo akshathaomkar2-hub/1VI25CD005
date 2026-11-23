@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+USN: 1VI23CD005
+ Name: Akshatha mo
+Branch: CSE (Data Science) 
+Semester: 3rd
+College: Vemana institute of technology
+=======
+USN: 1VI25CD005
+Name: Akshatha mo
+Branch: (Data science)
+Semister:3rd Sem
+
+>>>>>>> d2f32183d91087ad4467c5caf9d69a02720c7725
